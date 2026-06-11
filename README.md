@@ -87,11 +87,11 @@ Samples belonging to the same user were never split across training and validati
 
 ## Visualizations
 
-![Confusion Matrix](outputs/confusion_matrices.png)
+![Confusion Matrix](confusion_matrices.png)
 
-![ROC Curves](outputs/roc_curves.png)
+![ROC Curves](roc_curves.png)
 
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## Technologies Used
 
