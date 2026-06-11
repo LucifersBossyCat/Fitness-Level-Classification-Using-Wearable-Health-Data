@@ -109,5 +109,4 @@ Samples belonging to the same user were never split across training and validati
 
 - Riya Gupta
 - Shalini Dubey
-Department of Computer Science
-Sister Nivedita University
+
